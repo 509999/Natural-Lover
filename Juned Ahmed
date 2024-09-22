@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>জুনেদ আহমেদ - বিশ্ব ভ্রমণ এবং নিউজ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            background-color: #2e8b57;
+            color: white;
+            padding: 10px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #2e8b57;
+        }
+        section {
+            margin: 20px 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>জুনেদ আহমেদ</h1>
+    <p>বিশ্ব ভ্রমণ এবং নিউজ সংক্রান্ত তথ্য</p>
+</header>
+
+<nav>
+    <a href="#travel">ভ্রমণ তথ্য</a>
+    <a href="#news">নিত্য প্রয়োজনীয় তথ্য</a>
+</nav>
+
+<section id="travel">
+    <h2>ভ্রমণ তথ্য</h2>
+    <p>বিশ্বের বিভিন্ন জায়গায় ভ্রমণের অভিজ্ঞতা, টিপস এবং গন্তব্যের তথ্য এখানে পাওয়া যাবে।</p>
+</section>
+
+<section id="news">
+    <h2>নিত্য প্রয়োজনীয় তথ্য</h2>
+    <p>নতুন খবর, আপডেট এবং অন্যান্য প্রয়োজনীয় তথ্য এখানে পাবেন।</p>
+</section>
+
+<footer>
+    <p>যোগাযোগ: juned@example.com</p>
+</footer>
+
+</body>
+</html>
